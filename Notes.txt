@@ -1,0 +1,5 @@
+###### Update Notes 14/07/2021 #####
+
+1- Mitochondrial database updated to MitoCarta 3.0.
+2- Mitochondrial localization option is added.
+3- GUI is updated, gliched are fixed.
